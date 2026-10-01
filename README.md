@@ -1,42 +1,122 @@
-
 <h1 align="center">Hi 👋, I'm Abdullah Khalid</h1>
-<h3 align="center">A passionate Agentic AI Developer</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=abduIIahKhaIid&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-<p align="center" dir="auto">
-  <img src="https://github-profile-trophy.vercel.app/?username=abduIIahKhaIid&theme=monokai&row=1" />
-</p>
-<br>
-<!---
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
---->
+<h3 align="center">Generative AI &amp; Agentic AI Developer · Full Stack AI Engineer</h3>
 
-- 🔭 I’m currently working on **Generative AI**
-
-- 🌱 I’m currently learning **Generative AI, Agentic AI**
-
-- 📫 How to reach me **abdullahakhalid6@gmail.com**
-
-- ⚡ Fun fact **I think I am funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.leetcode.com/programmer_abdullah_khalid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="programmer_abdullah_khalid" height="30" width="40" /></a>
+<p align="center">
+  I build AI agents and the tooling around them: MCP servers, LLM-powered assistants, and full stack applications that connect AI to real business systems.
 </p>
 
-<h3 align="left">:hammer_and_wrench: Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>
-<!---
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/abdullah"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="abdullah" /></a></p>
---->
-<br><br>
-<p align="left">:fire: My Stats :</p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=abduIIahKhaIid&show_icons=true&theme=highcontrast" alt="abduiiahkhaiid" /></p>
-<br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abduIIahKhaIid&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Location-Lahore%2C%20Pakistan-0e75b6?style=flat" alt="Location" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaboration-2ea44f?style=flat" alt="Open to collaboration" />
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abduIIahKhaIid&layout=compact&theme=vision-friendly-dark" /></p>
+<p align="center">
+  <a href="mailto:abdullahakhalid6@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.leetcode.com/programmer_abdullah_khalid"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <!-- Add your LinkedIn here:
+  <a href="https://www.linkedin.com/in/YOUR-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  -->
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abduiiahkhaiid&theme=highcontrast" alt="abduiiahkhaiid" /></p>
+---
+
+## 🚀 About Me
+
+- 🔭 **Currently building:** Generative AI applications, AI agents, and MCP-based integrations
+- 🌱 **Currently learning:** Advanced Agentic AI patterns: tool use, multi-agent workflows, and agent evaluation
+- 🧩 **What I enjoy:** Turning natural-language requests into reliable, secure actions inside real software systems
+- 🏠 **Working style:** Remote-first, documentation-driven, test-minded
+- ⚡ **Fun fact:** I think I'm funny (the jury is still out)
+
+---
+
+## 🤖 What I Work On
+
+| Area | What it means in practice |
+| --- | --- |
+| **Agentic AI** | Agents that plan, call tools, and complete multi-step tasks |
+| **Generative AI** | LLM-powered assistants and features built into products |
+| **MCP (Model Context Protocol)** | Secure servers that expose business tools and data to AI models |
+| **Full Stack Development** | End-to-end apps with modern frontends and Node.js / Python backends |
+
+---
+
+## 📌 Featured Project
+
+### 🔗 [Hubspot-MCP-Server](https://github.com/abduIIahKhaIid/Hubspot-MCP-Server)
+
+A secure MCP server and professional AI assistant that lets users work with their HubSpot CRM in plain English.
+
+- 🔍 Search CRM records
+- 💼 Review company deals
+- 🔄 Update deal stages
+- ✅ Create follow-up tasks
+
+**Built with:** Python · MCP · `uv` · `pyproject.toml`-based packaging  
+**Repo highlights:** `src/` layout, `tests/`, `docs/`, `.env.example` for safe configuration, and `AGENTS.md` / `PLANS.md` for agent-assisted development.
+
+<a href="https://github.com/abduIIahKhaIid/Hubspot-MCP-Server">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abduIIahKhaIid&repo=Hubspot-MCP-Server&theme=github_dark&show_owner=true" alt="Hubspot-MCP-Server" />
+</a>
+
+<!-- Add more featured projects here using the same format -->
+
+---
+
+## 🛠️ Tech Stack
+
+**AI &amp; Backend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=py,nodejs,express,nestjs,ts,js&theme=dark" alt="AI and backend" />
+</p>
+
+**Frontend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind,bootstrap,html,css&theme=dark" alt="Frontend" />
+</p>
+
+**Databases**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" alt="Databases" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+</p>
+
+**Languages &amp; Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,php,git,github,linux&theme=dark" alt="Languages and tools" />
+</p>
+
+<!-- Add the AI tools you actually use, e.g. OpenAI Agents SDK, LangChain, LangGraph, FastAPI, Docker -->
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=abduIIahKhaIid&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abduIIahKhaIid&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abduIIahKhaIid&theme=github-dark&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abduIIahKhaIid&theme=monokai&row=1" alt="GitHub trophies" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in conversations about AI agents, MCP, and building useful products with LLMs. If you have a project, a question, or a collaboration idea, feel free to reach out at **[abdullahakhalid6@gmail.com](mailto:abdullahakhalid6@gmail.com)**.
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:2ea44f&height=100&section=footer" alt="Footer" />
+</p>
