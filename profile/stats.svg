@@ -8,8 +8,8 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">Abdullah khalid&#39;s GitHub Stats, Rank: B-</title>
-        <desc id="descId">Total Stars Earned: 51, Total Commits  : 377, Total PRs: 50, Total Issues: 0, Contributed to (last year): 1</desc>
+        <title id="titleId">Abdullah khalid&#39;s GitHub Stats, Rank: B</title>
+        <desc id="descId">Total Stars Earned: 51, Total Commits  : 385, Total PRs: 55, Total Issues: 0, Contributed to (last year): 1</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 159.35221184634426;
+        stroke-dashoffset: 157.0700151819773;
       }
     }
   
@@ -184,7 +184,7 @@
         x="224.01"
         y="12.5"
         data-testid="commits"
-      >377</text>
+      >385</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -199,7 +199,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >50</text>
+      >55</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
