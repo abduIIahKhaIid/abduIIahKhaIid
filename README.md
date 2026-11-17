@@ -24,10 +24,8 @@
 
 ## 🚀 About Me
 
-- 🔭 **Currently building:** Generative AI applications, AI agents, and MCP-based integrations
-- ☁️ **Cloud &amp; delivery:** Deploying and operating AI workloads on **AWS**, **GCP**, and **Huawei Cloud** with DevOps practices
-- 🔐 **Security mindset:** Applying **DevSecOps** in pipelines and **AISecOps** to AI systems, from agent permissions to prompt-injection defenses
-- 🌱 **Currently learning:** Advanced Agentic AI patterns: tool use, multi-agent workflows, and agent evaluation
+- 🔭 **Currently building:** AI agents and MCP-based integrations
+- 🌱 **Currently learning:** Multi-agent workflows and agent evaluation
 - 🏠 **Working style:** Remote-first, documentation-driven, test-minded
 - ⚡ **Fun fact:** I think I'm funny (the jury is still out)
 
@@ -51,10 +49,21 @@
 
 ## 🛠️ Tech Stack
 
-**AI &amp; Backend**
+**AI &amp; Agents**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,nodejs,express,nestjs,ts,js&theme=dark" alt="AI and backend" />
+  <img src="https://img.shields.io/badge/OpenAI%20Agents%20SDK-000000?style=for-the-badge" alt="OpenAI Agents SDK" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/MCP%20SDK-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="Model Context Protocol SDK" />
+  <img src="https://img.shields.io/badge/Claude%20API-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude API" />
+  <img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini API" />
+</p>
+
+**Backend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=py,fastapi,nodejs,express,nestjs,ts,js&theme=dark" alt="Backend" />
 </p>
 
 **Cloud**
@@ -70,12 +79,17 @@
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,githubactions,linux,bash&theme=dark" alt="DevOps tools" />
 </p>
 
-<!-- Remove any icon above you don't actually use. Add your real DevSecOps tools below, e.g. Trivy, SonarQube, Snyk, Vault, OWASP ZAP -->
+<p>
+  <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=trivy&logoColor=white" alt="Trivy" />
+  <img src="https://img.shields.io/badge/SonarQube-126ED3?style=for-the-badge&logo=sonarqubeserver&logoColor=white" alt="SonarQube" />
+  <img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white" alt="Snyk" />
+  <img src="https://img.shields.io/badge/Vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=black" alt="HashiCorp Vault" />
+</p>
 
 **Frontend**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind,bootstrap,html,css&theme=dark" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" alt="Frontend" />
 </p>
 
 **Databases**
@@ -90,8 +104,6 @@
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,php,git,github&theme=dark" alt="Languages and tools" />
 </p>
-
-<!-- Add the AI tools you actually use, e.g. OpenAI Agents SDK, LangChain, LangGraph, FastAPI -->
 
 ---
 
