@@ -98,16 +98,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=abduIIahKhaIid&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abduIIahKhaIid&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
+  <img height="170" src="./profile/stats.svg" alt="GitHub stats" />
+  <img height="170" src="./profile/top-langs.svg" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abduIIahKhaIid&theme=github-dark&hide_border=true" alt="GitHub streak" />
+  <img src="./profile/streak.svg" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abduIIahKhaIid&theme=monokai&row=1" alt="GitHub trophies" />
+  <img width="100%" src="./profile/trophy.svg" alt="GitHub trophies" />
 </p>
 
 ---
